@@ -1,49 +1,38 @@
-# 👋 Bienvenue sur mon Portfolio Data !
+# 👋 Bienvenue sur mon Portfolio Data & BI
 
-## Je suis Annie IVALA — Data & BI Analyst | Passionnée par la Data & l'Impact ESG 🌱
+## Je suis Annie IVALA — Data Analyst | Passionnée par la Data & l'Impact ESG 🌱
 
-🎯 Avec 4 ans d'expérience en gestion et analyse de données, je conçois des solutions décisionnelles innovantes grâce à des outils comme **Power BI**, **SQL**, **VBA** et **Power Apps**.  
-Mon objectif : Mettre la donnée au service de la performance **business** et de la **transition durable**.
-
----
-
-## 🚀 **Mes Projets phares**
-
-### 🔋 [Impact énergétique & environnemental (2020–2024)](lien_vers_repo)
-Analyse Power BI de la consommation d'électricité d'un foyer type, avec mesure de l'empreinte carbone et propositions d'optimisation.
-
-### 📊 [Dashboard Prix & Performance Client](lien_vers_repo)
-Création d'un algorithme de recommandation et visualisation des données clients pour optimiser la stratégie pricing.
-
-### 🌍 [Étude Linguistique - Répartition Lycées & Collèges](lien_vers_repo)
-Exploration des données éducatives avec Power BI pour une meilleure compréhension des dynamiques linguistiques.
+Avec 4 ans d'expérience, j'exploite la puissance de la donnée pour accompagner la prise de décision stratégique et durable grâce à **Power BI**, **SQL**, et **VBA**.  
+Mon objectif : allier performance business et responsabilité environnementale.
 
 ---
 
-## 🛠️ **Compétences techniques**
+## 🚀 Projets phares
 
-![SQL](https://img.shields.io/badge/SQL-Data-blue)
-![Power BI](https://img.shields.io/badge/PowerBI-Visualization-yellow)
-![VBA](https://img.shields.io/badge/VBA-Automation-green)
-![Power Apps](https://img.shields.io/badge/PowerApps-LowCode-purple)
-![ESG](https://img.shields.io/badge/ESG-Impact-brightgreen)
+### 🔋 [Impact Énergétique & Environnemental (2020–2024)](https://github.com/Data-Projects-Hub/impact-energetique-powerbi)
+Analyse Power BI de la consommation d'électricité des foyers français et de l'empreinte carbone.
 
-
-
----
-
-## 🌱 **Pourquoi l'ESG ?**
-Convaincue que la donnée est un levier essentiel pour accompagner la transformation durable des entreprises, j'intègre systématiquement une réflexion **Environnementale, Sociale et de Gouvernance** dans mes analyses.
+- 📂 Fichiers :
+   - [`Dashboard.pbit`](https://github.com/Data-Projects-Hub/impact-energetique-powerbi/blob/main/Dashboard.pbit)  
+   - [`Rapport conso énergétique.pbix`](https://github.com/Data-Projects-Hub/impact-energetique-powerbi/blob/main/Rapport%20conso%20%C3%A9nerg%C3%A9tique.pbix)
+- 📸 **Aperçu :**  
+  ![Dashboard Impact Énergétique](https://github.com/Data-Projects-Hub/impact-energetique-powerbi/blob/main/imgdash-global.GIF?raw=true)
 
 ---
 
-## 📎 **Me contacter**
+### ⚡ [Consommation Horaire Énergétique : Électricité](https://github.com/Data-Projects-Hub/dashboard-conso-electrique)
+Suivi détaillé de la consommation horaire pour identifier les pics et leviers d'économie.
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/annie-ivala)
-- 📧 ivalaannie@gmail.com
-- 📂 [Télécharger mon CV](lien_vers_ton_CV_en_ligne)
+- 📸 **Aperçu :**  
+  ![Conso Horaire](https://github.com/Data-Projects-Hub/dashboard-conso-electrique/blob/main/Conso.GIF?raw=true)
 
 ---
 
-_"La data au service de décisions stratégiques, responsables et durables."_  
-Let's solve together! 💡
+### 🌍 [Répartition Linguistique - Lycées & Collèges](https://github.com/Data-Projects-Hub/Rapport-powerBI-Etude-linguistique)
+Visualisation des langues enseignées en France via Power BI.
+
+- 📂 Fichier : [`Répartition linguistique lycees et colleges.pbix`](https://github.com/Data-Projects-Hub/Rapport-powerBI-Etude-linguistique/blob/main/R%C3%A9partition%20linguistique%20lycees%20et%20colleges.pbix)
+- 📸 **Aperçu :**  
+  ![Répartition Linguistique](https://github.com/Data-Projects-Hub/Rapport-powerBI-Etude-linguistique/blob/main/Langues1.png?raw=true)
+
+---
